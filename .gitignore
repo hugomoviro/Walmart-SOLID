@@ -1,0 +1,69 @@
+# Carpeta de salida de compilación
+/bin/
+/obj/
+.vs/
+
+# Archivos de configuración local
+/appsettings.Development.json
+/appsettings.Production.json
+/appsettings.json
+
+# Archivos de registro
+/logs/
+
+# Dependencias y paquetes de NuGet restaurados
+/packages/
+
+# Carpeta de publicación
+/publish/
+
+# Archivos de respaldo de Visual Studio
+*.bak
+*.backup
+*.zip
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de caché y de generación
+*.cache
+*.pidb
+*.userprefs
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.crt
+*.pfx
+*.key
+*.p12
+*.pem
+*.cer
+*.svclog
+*.config.transform
+*._Trace.xml
+*.ilk
+*.mdf
+*.ldf
+*.rptproj.bak
+*.rst
+*.sdf
+*.sln.docstates
+*.tlb
+*.tlh
+*.tmp
+*.userlog
+*.viw
+*.xsn
+*.dat
+*.exp
+*.xlsb
+*.embed.manifest
+*.dll.embed.manifest
+*.exe.embed.manifest
